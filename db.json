@@ -1,20 +1,37 @@
 {
-  "opskrifter": [
-    {
-      "id": 1,
-      "name": "Boller i karry"
-    },
-    {
-      "id": 2,
-      "name": "Karry i kokos"
-    },
-    {
-      "id": 3,
-      "name": "Kylling i karry"
-    },
-    {
-      "id": 4,
-      "name": "Kylling med pikant"
-    }
-  ]
-}
+    "opskrifter": [
+      {
+        "id": 1,
+        "navn": "Boller i karry"
+      },
+      {
+        "id": 2,
+        "navn": "Karry i kokos"
+      },
+      {
+        "id": 3,
+        "navn": "Kylling i karry"
+      },
+      {
+        "id": 4,
+        "navn": "Kylling med pikant"
+      },
+      {
+        "id": 5,
+        "navn": "Chili Con Carne"
+      },
+      {
+        "id": 6,
+        "navn": "Tykstegsbøffer med coleslaw"
+      },
+      {
+        "id": 7,
+        "navn": "Kong Fittes Livret"
+      },
+      {
+        "id": 8,
+        "navn": "Bøffer med bearnaise"
+      }
+
+    ]
+  }
