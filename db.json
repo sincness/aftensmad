@@ -1,20 +1,20 @@
 {
-  "madretter": [
+  "opskrifter": [
     {
       "id": 1,
-      "title": "Boller i karry"
+      "name": "Boller i karry"
     },
     {
       "id": 2,
-      "title": "Karry i kokos"
+      "name": "Karry i kokos"
     },
     {
       "id": 3,
-      "title": "Kylling i karry"
+      "name": "Kylling i karry"
     },
     {
       "id": 4,
-      "title": "Kylling med pikant"
+      "name": "Kylling med pikant"
     }
   ]
 }
