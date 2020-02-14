@@ -31,7 +31,26 @@
       {
         "id": 8,
         "navn": "Bøffer med bearnaise"
-      }
-
+      },
+      {
+        "id": 9,
+        "navn": "Lasagne"
+      },
+      {
+        "id": 10,
+        "navn": "Gullash med kartoffelmos"
+      },
+      {
+        "id": 11,
+        "navn": "Wok med kylling og nudler"
+      },
+      {
+        "id": 12,
+        "navn": "Pulled pork"
+      },
+      {
+        "id": 13,
+        "navn": "Farserede porre"
+      },
     ]
   }
